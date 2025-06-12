@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Pratibha</h1>
-<h3 align="center">💻 Full-Stack Web Developer | 🎓 MCA Student @ JECRC | 🚀 Tech Explorer</h3>
+<h3 align="center">💻 Developer | 🚀 Tech Explorer </h3>
 
 ---
 
 🌟 Welcome to my GitHub profile! I’m a curious coder, creative builder, and problem-solver passionate about turning ideas into impactful tech.
 
-- 🎓 MCA Student @ JECRC University | BCA @ Mody University (8.34 CGPA)
-- 🔭 I’m currently working on full-stack projects, creative UI/UX, and API integrations
-- 🌱 Learning: AI/ML | System Design | DevOps
-- 👯 I’m looking to collaborate on impactful, creative projects
-- 💡 Hackathon finalist | Lifelong learner | Frontend enthusiast
-- ⚡ Fun fact: I build, debug, and shoot hoops (🏀) like a pro
+👩‍🎓 Currently mastering computers (MCA) 
+👩‍🔧 Former BCA graduate.    
+🍔 Built many tasty sites like recipe-site ; now cooking up full-stack projects with extra spice 🌶️
+🤖 Learning AI, ML, and automation to go beyond “just websites”
+<h2> 🧠 “Learning never exhausts the mind, only not learning does.” — someone who clearly never used Stack Overflow/ChatGPT at 2 AM.</h2>
 
 ---
 
@@ -27,6 +26,20 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
+
+
+💡 What keeps me up at night (besides debugging):
+- Turning ideas into real-world projects
+- Helping others with tech (Govt license portal? Let’s go!)
+- Chasing clean code and clever solutions
+
+---
+🧩 Hackathons? ✔️  
+👯 Teamwork? ✔️  
+🧗‍♀️ Growth mindset? Absolutely ✔️  
+🧘 Also enjoy: Basketball 🏀, podcasts, good design, & naps between commits.
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -56,6 +69,14 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+-->
+---
+
+> 👩‍💻 Life goal: Build something so useful it saves someone’s time, sanity, or startup.  
+> 🚀 On a mission to learn fast, build big, and stay kind.  
+🌱 Currently: Growing as a developer.  
+🎯 Believer in:  
+> Clarity in code. Empathy in design. Grit in execution.  
 
 ---
 
