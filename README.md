@@ -72,11 +72,11 @@
 -->
 ---
 
-> 👩‍💻 Life goal: Build something so useful it saves someone’s time, sanity, or startup.  
-> 🚀 On a mission to learn fast, build big, and stay kind.  
+👩‍💻 Life goal: Build something so useful it saves someone’s time, sanity, or startup.  
+🚀 On a mission to learn fast, build big, and stay kind.  
 🌱 Currently: Growing as a developer.  
 🎯 Believer in:  
-> Clarity in code. Empathy in design. Grit in execution.  
+        Clarity in code. Empathy in design. Grit in execution.  
 
 ---
 
