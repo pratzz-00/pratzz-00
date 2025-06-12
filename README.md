@@ -5,10 +5,10 @@
 
 🌟 Welcome to my GitHub profile! I’m a curious coder, creative builder, and problem-solver passionate about turning ideas into impactful tech.
 
-👩‍🎓 Currently mastering computers (MCA) 
-👩‍🔧 Former BCA graduate.    
-🍔 Built many tasty sites like recipe-site ; now cooking up full-stack projects with extra spice 🌶️
-🤖 Learning AI, ML, and automation to go beyond “just websites”
+👩‍🎓 Currently mastering computers (MCA)  
+👩‍🔧 Former BCA graduate.      
+🍔 Built many tasty sites like recipe-site ; now cooking up full-stack projects with extra spice 🌶️  
+🤖 Learning AI, ML, and automation to go beyond “just websites”  
 <i> 🧠 “Learning never exhausts the mind, only not learning does.” — someone who clearly never used Stack Overflow/ChatGPT at 2 AM.</i>
 
 ---
