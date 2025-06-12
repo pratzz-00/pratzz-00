@@ -9,7 +9,7 @@
 👩‍🔧 Former BCA graduate.    
 🍔 Built many tasty sites like recipe-site ; now cooking up full-stack projects with extra spice 🌶️
 🤖 Learning AI, ML, and automation to go beyond “just websites”
-<h2> 🧠 “Learning never exhausts the mind, only not learning does.” — someone who clearly never used Stack Overflow/ChatGPT at 2 AM.</h2>
+<i> 🧠 “Learning never exhausts the mind, only not learning does.” — someone who clearly never used Stack Overflow/ChatGPT at 2 AM.</i>
 
 ---
 
