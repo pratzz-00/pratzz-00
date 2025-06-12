@@ -38,7 +38,7 @@
 🧩 Hackathons? ✔️  
 👯 Teamwork? ✔️  
 🧗‍♀️ Growth mindset? Absolutely ✔️  
-🧘 Also enjoy: Basketball 🏀, podcasts, good design, & naps between commits.
+🧘 Also enjoy: Basketball 🏀, Podcasts, Good Design, & Long naps between commits.
 <!--
 ---
 
@@ -76,7 +76,7 @@
 🚀 On a mission to learn fast, build big, and stay kind.  
 🌱 Currently: Growing as a developer.  
 🎯 Believer in:  
-        Clarity in code. Empathy in design. Grit in execution.  
+          Clarity in code. Empathy in design. Grit in execution.  
 
 ---
 
